@@ -1,0 +1,11 @@
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\bin\Debug\ProgettoINFORMATICA.exe.config
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\bin\Debug\ProgettoINFORMATICA.exe
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\bin\Debug\ProgettoINFORMATICA.pdb
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\obj\Debug\ProgettoINFORMATICA.csproj.AssemblyReference.cache
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\obj\Debug\ProgettoINFORMATICA.csproj.SuggestedBindingRedirects.cache
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\obj\Debug\ProgettoINFORMATICA.Form1.resources
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\obj\Debug\ProgettoINFORMATICA.Properties.Resources.resources
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\obj\Debug\ProgettoINFORMATICA.csproj.GenerateResource.cache
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\obj\Debug\ProgettoINFORMATICA.csproj.CoreCompileInputs.cache
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\obj\Debug\ProgettoINFORMATICA.exe
+C:\Users\cutinella.19316.PALEOCAPA\source\repos\ProgettoINFORMATICA\ProgettoINFORMATICA\obj\Debug\ProgettoINFORMATICA.pdb
